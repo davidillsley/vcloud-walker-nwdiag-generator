@@ -1,3 +1,6 @@
+*.diag
+*.json
+
 *.gem
 *.rbc
 .bundle
